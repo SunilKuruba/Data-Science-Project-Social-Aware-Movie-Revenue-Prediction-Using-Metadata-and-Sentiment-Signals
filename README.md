@@ -1,4 +1,4 @@
-**Data Science Project: Social Aware Movie Revenue Prediction Using Metadata and Sentiment Signals**
+# **Data Science Project: Social Aware Movie Revenue Prediction Using Metadata and Sentiment Signals**
 
 ### **1\. Introduction**
 
